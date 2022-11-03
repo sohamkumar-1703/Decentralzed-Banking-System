@@ -26,7 +26,7 @@ contract Banking {
             0,
             block.timestamp,
             "Ethereal",
-            "NIT Durgapur",
+            "Chennai",
             address(this),
             0,
             true
